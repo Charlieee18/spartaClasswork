@@ -1,15 +1,55 @@
 body{
 	height: 100vh;
 	width: 100vw;
+	background-color: #f6e1f7;
 
 }
 .jumbotron {
-	background-color: #f4c8f4;
+	border-top: 10px;
+	background-color: #ec82f2;
 	
 }
 .logo{
 	float: right;
-	height: 5%;
-	width: 5%;
+	height: 5px;
+	width: 5px;
+}
+.carousel-slide{
+	height: 500px;
+	width: 500px;
+}
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;   
+}
+.navbar {
+	max-height: 100px;
 }
 
+.navbar-centre {
+
+	margin: 0 auto;
+
+}
+.navbar-custom {
+	background-color: #f6e1f7;
+
+}
+.navfont {
+	color:#a00196;
+}
+
+.d-block.img-fluid {
+	width: 100%;
+}
+
+.carousel-inner {
+	height: 400px;
+}
+.card {
+	border-top: 10px;
+}
+.book_art{
+	background-color: 
+	}
